@@ -59,3 +59,9 @@
   #bell {
     font-size: 18px;
   }
+  #log {
+    color: blue;
+    padding: 20px;
+    font-size: 21px;
+    cursor: pointer;
+  }
