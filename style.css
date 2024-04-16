@@ -31,3 +31,23 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 10px;
   }
+  #int {
+    background-color: whitesmoke;
+    margin: 20px 30px 10px 30px;
+    width: 250px;
+    height: 30px;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid rgb(216, 211, 211,);
+  }
+  #a {
+    background-color: rgb(91, 91, 236);
+    margin: 20px 30px 10px 30px;
+    width: 250px;
+    height: 30px;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid rgb(216, 211, 211,);
+    border-radius: 10px;
+    color: white;
+  }
