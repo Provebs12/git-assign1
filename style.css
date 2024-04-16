@@ -25,3 +25,9 @@
     border: 1px solid rgb(109, 107, 107);
     background-color: white;
   }
+  #hed {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+  }
